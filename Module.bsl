@@ -1,9 +1,8 @@
 ﻿
 &НаКлиенте
-Процедура Test(Команда)
+Процедура Test()
 
 	//test comment 1 github
-	//comment 2 VS
-	Сообщить("Hello, world!");
+	Сообщить("Hello, wоrld!");
 	
 КонецПроцедуры
